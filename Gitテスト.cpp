@@ -18,7 +18,6 @@ int main()
 
     std::cout << "プルリクエストの作成\n";
 
-    std::cout << "Clond changed\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
