@@ -7,15 +7,11 @@ int main()
 {
     std::cout << "Hello GitHub!\n";
     std::cout << "LC1B_19_ハギワラ_ヒビキ\n";
-
     std::cout << "2023/10/11\n";
-
     std::cout << "player作成\n";
-
     std::cout << "マージしてください\n";
-
     std::cout << "マージします!!!!!!!!!!!!!!!!!!!!\n";
-    std::cout << "TEST\n";
+    std::cout << "TsawqeT\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
