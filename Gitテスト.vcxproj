@@ -127,7 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="batu.cpp" />
     <ClCompile Include="Gitテスト.cpp" />
+    <ClCompile Include="maru.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="batu.h" />
+    <ClInclude Include="maru.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
